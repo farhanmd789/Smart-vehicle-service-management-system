@@ -143,7 +143,10 @@ Example:
 ```bash
 javac Main.java
 java Main
+ 
 ```
+run.bat 
+java -cp out Main
 
 Replace `Main` with the actual main class name. If the project contains multiple Java files or packages, compile and run them according to the project's directory structure.
 
