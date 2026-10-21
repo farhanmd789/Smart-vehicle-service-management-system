@@ -168,3 +168,10 @@ By completing this project, students can gain practical experience in:
 The **Smart Vehicle Service Management System** is an educational Core Java project that demonstrates object-oriented programming, record management, authentication, and workflow processing.
 
 It provides practical exposure to business logic implementation and Java application development, making it useful for students preparing for technical interviews, academic project demonstrations, and entry-level software development roles.
+
+<img width="1047" height="786" alt="smartvehivleservice" src="https://github.com/user-attachments/assets/1466bdea-b9b1-41ae-86be-87c9833b9f3c" />
+<img width="1047" height="786" alt="smartvehivleservice" src="https://github.com/user-attachments/assets/f72a25ee-b1d4-4ac2-812b-dda27395169b" />
+<img width="690" height="442" alt="Screenshot 2026-10-21 141230" src="https://github.com/user-attachments/assets/a5e9d875-3077-4964-b012-8a251ba63bba" />
+<img width="712" height="842" alt="Screenshot 2026-10-21 141354" src="https://github.com/user-attachments/assets/c33bd371-a3c4-4d2e-a3c4-9cb793a725b5" />
+<img width="753" height="891" alt="Screenshot 2026-10-21 141537" src="https://github.com/user-attachments/assets/e4bebf9b-3398-4c88-ac35-eaf051a9a7ab" />
+<img width="788" height="847" alt="Screenshot 2026-10-21 141721" src="https://github.com/user-attachments/assets/ce184555-0c4d-4ac3-b552-f83e1c27e91c" />
